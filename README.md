@@ -1,1 +1,0 @@
-# mymoviz-frontend
